@@ -2,5 +2,5 @@
 Name=wlan*
 [Network]
 DHCP=yes
-DNSOverTLS=yes
-DNSSEC=yes
+DNSOverTLS=no
+DNSSEC=no
